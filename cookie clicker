@@ -1,0 +1,83 @@
+<div class="container">
+	<div id="cookieArea" class="col-xs-5">
+  	<img src="http://img04.deviantart.net/a57a/i/2012/133/4/2/free_cookie_texture_by_designercow-d4zkzjg.jpg" id="cookie"/>
+		<div id="display">
+  		<p>Cookies: <span id="total_clicks">0</span></p>
+		</div>
+		<div id="timer">
+			<div id="status">
+			</div>
+		</div>
+	</div>
+	<div id="upgrades" class="col-xs-7">
+		<div id="clicker">
+			<div id="info" class="col-xs-4">
+				<p> Clicker </p>
+				<p><span id="clickerCPS">0</span> Cookies per second</p>
+			</div>
+			<div id="buttons" class="col-xs-8">
+				<p>Clickers owned: <span id="clickers">0</span></p>
+				<button id="clickerBuyOne" class="btn">Buy One</button>
+				<button id="clickerBuyTen" class="btn">Buy Ten</button>
+				<button id="clickerBuyMax" class="btn">Buy Max</button>
+			</div>
+		</div>
+		
+		<div id="grandmas">
+			<div id="info" class="col-xs-4">
+				<p> Grandmas </p>
+				<p><span id="clickerCPS">0</span> Cookies per second</p>
+			</div>
+			<div id="buttons" class="col-xs-8">
+				<p>Clickers owned: <span id="clickers">0</span></p>
+				<button id="grandmaBuyOne" class="btn">Buy One</button>
+				<button id="grandmaBuyTen" class="btn">Buy Ten</button>
+				<button id="grandmaBuyMax" class="btn">Buy Max</button>
+			</div>
+		</div>
+		
+		<div id="farm">
+			<div id="info" class="col-xs-4">
+				<p> Farm </p>
+				<p><span id="clickerCPS">0</span> Cookies per second</p>
+			</div>
+			<div id="buttons" class="col-xs-8">
+				<p>Clickers owned: <span id="clickers">0</span></p>
+				<button id="farmBuyOne" class="btn">Buy One</button>
+				<button id="farmBuyTen" class="btn">Buy Ten</button>
+				<button id="farmBuyMax" class="btn">Buy Max</button>
+			</div>
+		</div>
+		
+		<div id="mine">
+			<div id="info" class="col-xs-4">
+				<p> Mine </p>
+				<p><span id="clickerCPS">0</span> Cookies per second</p>
+			</div>
+			<div id="buttons" class="col-xs-8">
+				<p>Clickers owned: <span id="clickers">0</span></p>
+				<button id="mineBuyOne" class="btn">Buy One</button>
+				<button id="mineBuyTen" class="btn">Buy Ten</button>
+				<button id="mineBuyMax" class="btn">Buy Max</button>
+			</div>
+		</div>
+		
+		<div id="factory">
+			<div id="info" class="col-xs-4">
+				<p> Factory </p>
+				<p><span id="clickerCPS">0</span> Cookies per second</p>
+			</div>
+			<div id="buttons" class="col-xs-8">
+				<p>Clickers owned: <span id="clickers">0</span></p>
+				<button id="factoryBuyOne" class="btn">Buy One</button>
+				<button id="factoryBuyTen" class="btn">Buy Ten</button>
+				<button id="factoryBuyMax" class="btn">Buy Max</button>
+			</div>
+		</div>
+		
+		<div id="mystery">
+			<h1 style="text-align: center">???</h1>
+		</div>
+		
+	</div>
+</div>
